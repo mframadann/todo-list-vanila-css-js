@@ -16,6 +16,7 @@
 
 body {
   font-family: "Poppins";
+  margin: 0px;
 }
 
 .wrapping {
@@ -102,6 +103,7 @@ body {
   border: none;
   font-family: "Poppins";
   font-weight: bold;
+  color: white;
 }
 
 .forms button:focus {
